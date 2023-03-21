@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Infrastructure Engineer Portfolio</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Infrastructure Engineer</h1>
+		<nav>
+			<ul>
+				<li><a href="#about">About</a></li>
+				<li><a href="#skills">Skills</a></li>
+				<li><a href="#experience">Experience</a></li>
+				<li><a href="#education">Education</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<section id="about">
+		<h2>About Me</h2>
+		<p>Hi, my name is John Doe and I'm an experienced Infrastructure Engineer. I have a strong background in designing, implementing and managing infrastructure solutions for small to large scale organizations. </p>
+		<p>I am a detail-oriented, organized and results-driven individual with exceptional analytical and problem-solving skills. I'm committed to staying up-to-date with the latest technologies and trends in the industry and I'm always looking for new challenges to help me grow professionally.</p>
+	</section>
+
+	<section id="skills">
+		<h2>Skills</h2>
+		<ul>
+			<li>Virtualization (VMware, Hyper-V, KVM)</li>
+			<li>Cloud Computing (AWS, Azure, Google Cloud)</li>
+			<li>Networking (Cisco, Juniper, Arista)</li>
+			<li>Automation (Ansible, Terraform, Chef)</li>
+			<li>Linux Administration (Red Hat, CentOS, Ubuntu)</li>
+			<li>Windows Server Administration (Active Directory, DNS, DHCP)</li>
+		</ul>
+	</section>
+
+	<section id="experience">
+		<h2>Experience</h2>
+		<ul>
+			<li>
+				<h3>Infrastructure Engineer - ACME Inc.</h3>
+				<p><em>January 2020 - Present</em></p>
+				<ul>
+					<li>Designed and implemented a new virtualization infrastructure based on VMware, reducing hardware costs by 30% and improving performance by 50%.</li>
+					<li>Implemented a hybrid cloud solution using AWS and Azure, enabling seamless migration of workloads between on-premises and cloud environments.</li>
+					<li>Developed and maintained automation scripts using Ansible, reducing manual configuration time by 50%.</li>
+				</ul>
+			</li>
+			<li>
+				<h3>Senior Systems Administrator - XYZ Corp.</h3>
+				<p><em>June 2015 - December 2019</em></p>
+				<ul>
+					<li>Managed a team of 3 Systems Administrators responsible for maintaining a 500+ node virtualization environment.</li>
+					<li>Designed and implemented a new backup and disaster recovery solution, reducing recovery time by 80%.</li>
+					<li>Improved network performance by 30% through the implementation of QoS policies and network segmentation.</li>
+				</ul>
+			</li>
+		</ul>
+	</section>
+
+	<section id="education">
+		<h2>Education
